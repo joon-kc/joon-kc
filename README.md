@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![My Skills](https://skills.thijs.gg/icons?i=py,postgres&theme=dark)](https://skills.thijs.gg)
+
 <!--
 **joon-kc/joon-kc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

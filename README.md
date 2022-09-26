@@ -6,6 +6,7 @@ I'm a Data Analyst and sometimes a bit of a Data Engineer, with experience from 
 ___ 
 ### My Skills
 <p align="center">
+  <h3>My Skills</h3> 
   <a href="https://skillicons.dev">
     <img src="https://skills.thijs.gg/icons?i=py,tensorflow,postgres,git,gcp&theme=dark" />
   </a>

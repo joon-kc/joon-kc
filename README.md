@@ -2,7 +2,15 @@
 
 I'm a Data Analyst and sometimes a bit of a Data Engineer, with experience from research to operational to development roles. I'm currently interested in data engineering as well as driving the business further with data intelligence.
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,postgres,git&theme=dark)](https://skills.thijs.gg)
+
+
+[![My Skills]
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skills.thijs.gg/icons?i=py,postgres,git&theme=dark" />
+  </a>
+</p>
+
 
 <!--
 **joon-kc/joon-kc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

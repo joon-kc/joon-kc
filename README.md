@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi There 👋
 
 I'm a Data Analyst and sometimes a bit of a Data Engineer, with experience from research to operational to development roles. I'm currently interested in data engineering as well as driving the business further with data intelligence.
 

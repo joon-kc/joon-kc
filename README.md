@@ -4,7 +4,7 @@ I'm a Data Analyst and sometimes a bit of a Data Engineer, with experience from 
 
 
 ___ 
-### My Skills
+<h3 align="center">My Skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skills.thijs.gg/icons?i=py,tensorflow,postgres,git,gcp&theme=dark" />

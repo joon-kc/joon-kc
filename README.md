@@ -1,6 +1,6 @@
 ### Hi There 👋
 
-I'm a Data Analyst and sometimes a bit of a Data Engineer, with experience from research to operational to development roles. I'm currently interested in data engineering as well as driving the business further with data intelligence.
+I'm a Data Analyst and sometimes a bit of a Data Engineer, with experience from research to operational, and also development roles. I'm currently interested in analytics engineering as well as driving the business further with data intelligence in the fraud space.
 
 
 ___ 

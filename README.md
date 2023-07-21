@@ -7,7 +7,7 @@ ___
 <h3 align="center">My Skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skills.thijs.gg/icons?i=py,tensorflow,postgres,git,gcp&theme=dark" />
+    <img src="https://skills.thijs.gg/icons?i=py,tensorflow,pytorch,gcp,postgres,postman,linux,git&theme=dark" />
   </a>
 </p>
 

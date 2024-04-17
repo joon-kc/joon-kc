@@ -1,13 +1,13 @@
 ### Hi There 👋
 
-I'm a Data Analyst and sometimes a bit of a Data Engineer, with experience from research to operational, and also development roles. I'm currently interested in analytics engineering as well as driving the business further with data intelligence in the fraud space.
+I'm a Data Scientist, with experience from research to operational, and also development roles.
 
 
 ___ 
 <h3 align="center">My Skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skills.thijs.gg/icons?i=py,tensorflow,pytorch,gcp,postgres,postman,linux,git&theme=dark" />
+    <img src="https://skills.thijs.gg/icons?i=py,tensorflow,pytorch,aws,gcp,postgres,postman,linux,git&theme=dark" />
   </a>
 </p>
 

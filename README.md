@@ -3,7 +3,7 @@
 I'm a Data Scientist, with experience from research to operational, and also development roles.
 
 ##### My Skills
-[![My Skills](https://skillicons.dev/icons?i=py,aws,gcp,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,aws,gcp,sklearn,tensorflow,pytorch,postgres&perline=3)](https://skillicons.dev)
 
 
 <!--

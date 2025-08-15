@@ -11,6 +11,8 @@ ___
   </a>
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 <!--
 **joon-kc/joon-kc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
